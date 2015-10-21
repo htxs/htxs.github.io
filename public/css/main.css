@@ -541,7 +541,7 @@ td {
 }
 .icon-brightness_4:before,
 .icon-next-logo:before {
-  content: "\e13e";
+  content: "";
 }
 .icon-whatshot:before,
 .icon-next-feed:before {
@@ -1055,7 +1055,7 @@ body {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #058688;
+  background: #2d44a3;
 }
 .sidebar-nav {
   margin: 0;
