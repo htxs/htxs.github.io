@@ -1,6 +1,7 @@
 title: The Official See Objective-C Style Guide
 date: 2015-10-20 19:57:59
-tags:
+categories: iOS
+tags: [团队, 风格]
 ---
 
 # See 官方 Objective-C 风格指南
